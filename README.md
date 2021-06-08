@@ -7,7 +7,7 @@
 
 ## Demo
 
-El demo de la Api la puedes encontrar en [Api Courflix](https://node-send-uri.herokuapp.com/).
+El demo de la Api la puedes encontrar en [Api NodeSend](https://node-send-uri.herokuapp.com/).
 
 ## rutas genericas
 
@@ -24,7 +24,7 @@ El demo de la Api la puedes encontrar en [Api Courflix](https://node-send-uri.he
 **https://node-send-uri.herokuapp.com/link"** _endpoint para crear un registro del archivo subido metodo post_
 
 
-### para hacer registro de productos
+### para hacer registro de links
 
 Para hacer un registro de usuario EXITOSAMENTE debes ocupar los paramentros requeridos:
 
